@@ -1,0 +1,4 @@
+com\cafsol\pricing\controller\PricingController.class
+com\cafsol\pricing\model\Offer.class
+com\cafsol\pricing\service\PricingService.class
+com\cafsol\pricing\PricingApplication.class
